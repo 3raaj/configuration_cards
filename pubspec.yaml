@@ -1,0 +1,21 @@
+name: configuration_cards
+description: A Flutter package to quickly create widgets to display basic application settings or similar.
+version: 0.0.1
+homepage: https://github.com/3raaj/configuration_cards
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  smooth_page_indicator: ^1.0.0+2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
