@@ -9,7 +9,7 @@ A Flutter package to quickly create widgets to display basic application setting
 
 #### add to your project
 
-```http
+```
  flutter pub add configuration_card
 ```
 class :  ConfigurationCard
